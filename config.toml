@@ -1,0 +1,4 @@
+baseURL = "https://nameimageduaribyt.vercel.app"
+languageCode = "en-us"
+title = "Name Image For DP"
+theme = "tale-hugo-master"
